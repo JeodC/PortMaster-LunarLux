@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "name": "lunarlux.zip",
+  "items": [
+    "Lunar Lux.sh",
+    "lunarlux"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Lunar Lux",
+    "porter": [
+      "Jeod"
+    ],
+    "desc": "Experience a sci-fi action-adventure RPG on the Moon in the year 30XX! Join Bella in a story of science, truth, justice, and trust, as she travels the silver globe to find a way to save humanity from Comet Coda! It's time to unleash your Lux!",
+    "desc_md": null,
+    "inst": "Buy the game on Steam and copy all the data to `lunarlux/assets`. On first run the game will be patched.",
+    "inst_md": null,
+    "genres": [
+      "action",
+	  "adventure",
+	  "rpg"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ]
+  }
+}
