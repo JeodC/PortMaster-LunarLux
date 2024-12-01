@@ -24,7 +24,9 @@
     "rtr": true,
     "exp": false,
     "runtime": null,
-    "reqs": [],
+    "reqs": [
+	  "hires"
+	],
     "arch": [
       "aarch64"
     ]
